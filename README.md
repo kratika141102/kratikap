@@ -1,0 +1,2 @@
+# kratikap
+this is my 1st github
